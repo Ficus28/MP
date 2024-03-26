@@ -1,0 +1,4 @@
+﻿  2_Lab_4.cpp
+C:\Users\Пользователь\source\repos\2_Lab_4\2_Lab_4\2_Lab_4.cpp(42,23): warning C4305: инициализация: усечение из "__int64" в "int"
+C:\Users\Пользователь\source\repos\2_Lab_4\2_Lab_4\2_Lab_4.cpp(42,25): warning C4309: инициализация: усечение константного значения
+  2_Lab_4.vcxproj -> C:\Users\Пользователь\source\repos\2_Lab_4\x64\Debug\2_Lab_4.exe
